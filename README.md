@@ -1,12 +1,9 @@
 # MLOps Credit Default Prediction — Databricks
 
-<p align="center">
-<img width="737" alt="cover" src="https://github.com/user-attachments/assets/a1c18fba-9e39-45b5-8fcd-bceb1f5f5af9">
-</p>
 
 End-to-end MLOps project for credit card default prediction, built on Databricks with MLflow, Feature Store, LightGBM, and automated CI/CD. Based on the [Kaggle UCI Credit Default Dataset](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset/data).
 
-Developed as part of the [End-to-end MLOps with Databricks](https://maven.com/marvelousmlops/mlops-with-databricks) course. Walk through the implementation in the companion [Medium publication](https://medium.com/@benitomartin/8cd9a85cc3c0).
+Based on implementation in the companion [Medium publication](https://medium.com/@benitomartin/8cd9a85cc3c0).
 
 ---
 
